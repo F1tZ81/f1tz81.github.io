@@ -1,25 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>F1tZy</title>
     <link>http://f1tz81.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on F1tZy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 31 Jan 2016 19:53:15 -0500</lastBuildDate>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 01 Feb 2016 00:35:20 -0500</lastBuildDate>
     <atom:link href="http://f1tz81.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>test</title>
-      <link>http://f1tz81.github.io/post/test/</link>
-      <pubDate>Sun, 31 Jan 2016 19:53:15 -0500</pubDate>
+      <title>About Me</title>
+      <link>http://f1tz81.github.io/about/</link>
+      <pubDate>Mon, 01 Feb 2016 00:35:20 -0500</pubDate>
       
-      <guid>http://f1tz81.github.io/post/test/</guid>
+      <guid>http://f1tz81.github.io/about/</guid>
       <description>
 
-&lt;h2 id=&#34;test:b128b7694e4de962e0088bcb1bcb254f&#34;&gt;Test&lt;/h2&gt;
+&lt;p&gt;Welcome all to my little corner of the Internet. Since this is sort of my first official post let me give you the low down on who I am.
+I am a father and software developer, in that order. My day job for the time being is both web development and automation. My
+true passion in my software is Game Development. Now that we have the intro out of the way lets dive in to what I do where.&lt;/p&gt;
 
-&lt;p&gt;This is a test post.&lt;/p&gt;
+&lt;h2 id=&#34;web-development:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Web Development&lt;/h2&gt;
+
+&lt;p&gt;My training and bulk of my experience has been in the world of Desktop Application(as in compiles a binary) and Systems Development.
+In the last few years I have branched out in to Web Development. It has been fun and presents a whole new set of challenges.&lt;/p&gt;
+
+&lt;h2 id=&#34;automation:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Automation&lt;/h2&gt;
+
+&lt;p&gt;So you might have read that text above and wondered what I meant by automation. It is some what a vague term so allow me to explain.
+What I mean by automation is using software to automate other software or business processes. The bulk of my work has been in the
+application testing space. This is using sets of tools and custom code to test web sites or desktop applications.&lt;/p&gt;
+
+&lt;h2 id=&#34;game-development:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Game Development&lt;/h2&gt;
+
+&lt;p&gt;O the mighty and awesome challenge of building virtual experiences. I have a love for creating entire worlds with in small digital devices. It
+is th reason I started my track in to software development. My speciality is Game Architecture, but I love most jobs in this field. Just don&amp;rsquo;t
+ask this poor coder to hand you art, your game characters will turn in to small squares.&lt;/p&gt;
+
+&lt;p&gt;So that sums up my professional life. For the most part that is all this little blog will cover. There might be a few cameo posts about my thoughts
+and feelings but this will not include family and friends. Check back often.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://f1tz81.github.io/projects/</link>
+      <pubDate>Mon, 01 Feb 2016 00:02:31 -0500</pubDate>
+      
+      <guid>http://f1tz81.github.io/projects/</guid>
+      <description>
+
+&lt;p&gt;Here is a short list of my current projects around the web.&lt;/p&gt;
+
+&lt;h2 id=&#34;game-dev:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Game Dev&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.violentsol.com/&#34;&gt;Violent Sol&lt;/a&gt; - An awesome top down survival game.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ostgames.github.io/ludumdare34/&#34;&gt;Cornflower Corban&lt;/a&gt; - A side scrolling shoot&amp;rsquo;em up made for Ludumdare 34.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/F1tZ81/TiledMinkay&#34;&gt;TiledMinkay&lt;/a&gt; - Simple Library to load TMX files in DotNet.&lt;/p&gt;
+
+&lt;h2 id=&#34;automation:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Automation&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/F1tZ81/Protractor-jvm&#34;&gt;Protractor JVM&lt;/a&gt; - A port of Protractor to the java virtual machine.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/F1tZ81/WebDriverExtended&#34;&gt;Webdriver Extneded&lt;/a&gt; - A set of small extensions for Selenium / Webdriver.&lt;/p&gt;
+
+&lt;h2 id=&#34;personal:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Personal&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://dungeonsandshotguns.org/&#34;&gt;Dungeons and Shotguns&lt;/a&gt; - A small family oriantied gaming group. Includes a hosted Minecraft, Starbound, and various other game servers.&lt;/p&gt;
 </description>
     </item>
     
