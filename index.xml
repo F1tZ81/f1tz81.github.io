@@ -6,8 +6,64 @@
     <description>Recent content on F1tZy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 05 Jan 2017 00:11:44 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jan 2017 09:25:19 -0500</lastBuildDate>
     <atom:link href="http://f1tz81.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Marketing to the Organization</title>
+      <link>http://f1tz81.github.io/post/marketingtoorg/</link>
+      <pubDate>Thu, 05 Jan 2017 09:25:19 -0500</pubDate>
+      
+      <guid>http://f1tz81.github.io/post/marketingtoorg/</guid>
+      <description>&lt;p&gt;In my experience new ideas are not accepted within the organization when they are first uttered.
+Even in a forward looking group like IT it can take time and effort for an idea to take hold. If you talk
+to some they may say this is a political problem. I would look at this a slightly different way and pose this
+as a marketing opportunity, that is right marketing.&lt;/p&gt;
+
+&lt;p&gt;In a day in age where outsourcing complicated work is an option and a time where other organizations can take
+on your IT workload and do it for you, marketing is the key. Let me start with a
+&lt;a href=&#34;https://en.oxforddictionaries.com/definition/marketing&#34;&gt;Definition From oxforddictionaries.com&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;The action or business of promoting and selling products or services, including market research and advertising.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So if marketing is the process of promoting / selling something can you see a place for it in an IT organization.
+There is, every project / task / or activity you and your department do is either promoting or hurting the
+image of your department within the organization. In order to gain control of that image and message we can
+start using marketing practices and techniques. With increased awareness and recognition we can start to become
+a trusted partner with in the organization instead of just the guys who take care of that technology stuff.&lt;/p&gt;
+
+&lt;p&gt;Once you have reached a place of trust and value you can start to get projects though, new ideas approved, and
+make your department indispensable. How do we get there you ask, allow me to just give you a few ideas:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tell anyone that listen&lt;/strong&gt; - Simple awareness is one of the best tools you have. Tell every one you can about
+the awesome things you group or department are doing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Never miss an opportunity to answer to feedback&lt;/strong&gt; - Good or Bad feedback and how you and your group handle it
+is important, always thanks someone for any feedback and truly listen and get a full understanding of what the
+feedback is and there true motive for the feedback.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Demos and Lunch &amp;amp; Learns&lt;/strong&gt; - Take every opportunity you can to show off what your group can do. Be excited
+about it and show off the coolest things you can. This is another opportunity to cement expertise in the minds
+of others.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Define a Goal and Unified Message&lt;/strong&gt; - In my experience this is one of the most awkward but crucial things to
+do. Set a goal for the year / quarter / other length of time to achieve. Than great a message / slogan to help
+communicate that goal. This will help give a better guideline for how to spread the word on what your group is
+about.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    Spread Automation Testing across all digital products - Automate the Bits
+
+    Migrate all mail accounts to Outlook - A better Message
+
+    Go live in 3 new markets - Expanding Horizons
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Make it as catchy as you can without stressing about it being perfect. It needs to communicate a message, not
+win you awards.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The incorporation of Afterthought Games</title>
@@ -15,7 +71,9 @@
       <pubDate>Thu, 05 Jan 2017 00:11:44 -0500</pubDate>
       
       <guid>http://f1tz81.github.io/post/afterthoughtstart/</guid>
-      <description>&lt;p&gt;AS of today all of the game projects that I have been working on at OST Games have now been incorporated
+      <description>&lt;p&gt;&lt;img src=&#34;http://afterthoughtgames.com/assets/img/AfterthoughtLogoWhiteBlueBackground.png&#34; alt=&#34;Afterthought Logo&#34; height=&#34;350&#34; width=&#34;450&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;AS of today all of the game projects that I have been working on at OST Games have now been incorporated
 in to a new company called Afterthought Games. The projects include:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://cornflowercorbin.com&#34;&gt;Cornflower Corbin&lt;/a&gt;&lt;/p&gt;
@@ -24,6 +82,8 @@ in to a new company called Afterthought Games. The projects include:&lt;/p&gt;
 
 &lt;p&gt;Come check out the new website and get the low down on how things are moving on the projects on there
 respective websites.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://f1tz81.github.io/image/14358883_1791480321092671_5720240604644609498_n.png&#34; alt=&#34;Grand Gamers Guild&#34; height=&#34;350&#34; width=&#34;350&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;In other news Afterthought pickup on a new project. We are working with
 &lt;a href=&#34;http://grandgamersguild.com/&#34;&gt;Grand Gamers Guild&lt;/a&gt; to bring both Stroop and Unreal Estate to a computer
@@ -90,7 +150,7 @@ application testing space. This is using sets of tools and custom code to test w
 &lt;h2 id=&#34;game-development:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Game Development&lt;/h2&gt;
 
 &lt;p&gt;O the mighty and awesome challenge of building virtual experiences. I have a love for creating entire worlds with in small digital devices. It
-is the reason I started my track in to software development. My speciality is Game Architecture, but I love most jobs in this field. Just don&amp;rsquo;t
+is the reason I started my track in to software development. My specialty is Game Architecture, but I love most jobs in this field. Just don&amp;rsquo;t
 ask this poor coder to hand you art, your game characters will turn in to small squares.&lt;/p&gt;
 
 &lt;p&gt;So that sums up my professional life. For the most part that is all this little blog will cover. There might be a few cameo posts about my thoughts
@@ -110,8 +170,6 @@ and feelings but this will not include family and friends. Check back often.&lt;
 
 &lt;h2 id=&#34;game-dev:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Game Dev&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://blog.violentsol.com/&#34;&gt;Violent Sol&lt;/a&gt; - An awesome top down survival game.&lt;/p&gt;
-
 &lt;p&gt;&lt;a href=&#34;http://ostgames.github.io/ludumdare34/&#34;&gt;Cornflower Corban&lt;/a&gt; - A side scrolling shoot&amp;rsquo;em up made for Ludumdare 34.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/F1tZ81/TiledMinkay&#34;&gt;TiledMinkay&lt;/a&gt; - Simple Library to load TMX files in DotNet.&lt;/p&gt;
@@ -120,11 +178,13 @@ and feelings but this will not include family and friends. Check back often.&lt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/F1tZ81/Protractor-jvm&#34;&gt;Protractor JVM&lt;/a&gt; - A port of Protractor to the java virtual machine.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/F1tZ81/WebDriverExtended&#34;&gt;Webdriver Extneded&lt;/a&gt; - A set of small extensions for Selenium / Webdriver.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/F1tZ81/WebDriverExtended&#34;&gt;Webdriver Extneded&lt;/a&gt; - A set of small extensions for Selenium /
+Webdriver.&lt;/p&gt;
 
 &lt;h2 id=&#34;personal:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Personal&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://dungeonsandshotguns.org/&#34;&gt;Dungeons and Shotguns&lt;/a&gt; - A small family oriantied gaming group. Includes a hosted Minecraft, Starbound, and various other game servers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://dungeonsandshotguns.org/&#34;&gt;Dungeons and Shotguns&lt;/a&gt; - A small family oriented gaming group. Includes a
+hosted Minecraft, Starbound, and various other game servers.&lt;/p&gt;
 </description>
     </item>
     
