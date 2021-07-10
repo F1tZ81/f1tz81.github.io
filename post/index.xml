@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on F1tZy</title>
@@ -6,122 +6,15 @@
     <description>Recent content in Posts on F1tZy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 05 Jan 2017 09:25:19 -0500</lastBuildDate>
-    <atom:link href="http://f1tz81.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 05 Jan 2017 09:25:19 -0500</lastBuildDate><atom:link href="http://f1tz81.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marketing to the Organization</title>
       <link>http://f1tz81.github.io/post/marketingtoorg/</link>
       <pubDate>Thu, 05 Jan 2017 09:25:19 -0500</pubDate>
       
       <guid>http://f1tz81.github.io/post/marketingtoorg/</guid>
-      <description>&lt;p&gt;In my experience new ideas are not accepted within the organization when they are first uttered.
-Even in a forward looking group like IT it can take time and effort for an idea to take hold. If you talk
-to some they may say this is a political problem. I would look at this a slightly different way and pose this
-as a marketing opportunity, that is right marketing.&lt;/p&gt;
-
-&lt;p&gt;In a day in age where outsourcing complicated work is an option and a time where other organizations can take
-on your IT workload and do it for you, marketing is the key. Let me start with a
-&lt;a href=&#34;https://en.oxforddictionaries.com/definition/marketing&#34;&gt;Definition From oxforddictionaries.com&lt;/a&gt;:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;The action or business of promoting and selling products or services, including market research and advertising.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;So if marketing is the process of promoting / selling something can you see a place for it in an IT organization.
-There is, every project / task / or activity you and your department do is either promoting or hurting the
-image of your department within the organization. In order to gain control of that image and message we can
-start using marketing practices and techniques. With increased awareness and recognition we can start to become
-a trusted partner with in the organization instead of just the guys who take care of that technology stuff.&lt;/p&gt;
-
-&lt;p&gt;Once you have reached a place of trust and value you can start to get projects though, new ideas approved, and
-make your department indispensable. How do we get there you ask, allow me to just give you a few ideas:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Tell anyone that listen&lt;/strong&gt; - Simple awareness is one of the best tools you have. Tell every one you can about
-the awesome things you group or department are doing.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Never miss an opportunity to answer to feedback&lt;/strong&gt; - Good or Bad feedback and how you and your group handle it
-is important, always thanks someone for any feedback and truly listen and get a full understanding of what the
-feedback is and there true motive for the feedback.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Demos and Lunch &amp;amp; Learns&lt;/strong&gt; - Take every opportunity you can to show off what your group can do. Be excited
-about it and show off the coolest things you can. This is another opportunity to cement expertise in the minds
-of others.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Define a Goal and Unified Message&lt;/strong&gt; - In my experience this is one of the most awkward but crucial things to
-do. Set a goal for the year / quarter / other length of time to achieve. Than great a message / slogan to help
-communicate that goal. This will help give a better guideline for how to spread the word on what your group is
-about.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;    Spread Automation Testing across all digital products - Automate the Bits
-
-    Migrate all mail accounts to Outlook - A better Message
-
-    Go live in 3 new markets - Expanding Horizons
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Make it as catchy as you can without stressing about it being perfect. It needs to communicate a message, not
-win you awards.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The incorporation of Afterthought Games</title>
-      <link>http://f1tz81.github.io/post/afterthoughtstart/</link>
-      <pubDate>Thu, 05 Jan 2017 00:11:44 -0500</pubDate>
-      
-      <guid>http://f1tz81.github.io/post/afterthoughtstart/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://afterthoughtgames.com/assets/img/AfterthoughtLogoWhiteBlueBackground.png&#34; alt=&#34;Afterthought Logo&#34; height=&#34;350&#34; width=&#34;450&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;AS of today all of the game projects that I have been working on at OST Games have now been incorporated
-in to a new company called Afterthought Games. The projects include:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cornflowercorbin.com&#34;&gt;Cornflower Corbin&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://violentsol.com&#34;&gt;Violent Sol: Worlds&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Come check out the new website and get the low down on how things are moving on the projects on there
-respective websites.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://f1tz81.github.io/image/14358883_1791480321092671_5720240604644609498_n.png&#34; alt=&#34;Grand Gamers Guild&#34; height=&#34;350&#34; width=&#34;350&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;In other news Afterthought pickup on a new project. We are working with
-&lt;a href=&#34;http://grandgamersguild.com/&#34;&gt;Grand Gamers Guild&lt;/a&gt; to bring both Stroop and Unreal Estate to a computer
-and mobile phone near you.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Another Day Of Game Dev</title>
-      <link>http://f1tz81.github.io/post/20160204/</link>
-      <pubDate>Thu, 04 Feb 2016 22:30:37 -0500</pubDate>
-      
-      <guid>http://f1tz81.github.io/post/20160204/</guid>
-      <description>&lt;p&gt;After a long day at my day job and some family time I started work on Violent Sol.
-With our first internal release coming up it is important to get the finishing touches on
-on what really is a robust system with a simple little game built in. The amount of interaction
-really is just shooting bugs on a top down forest and picking health orbs.&lt;/p&gt;
-
-&lt;p&gt;This may seem like a small thing but most of our work for the past 3 months or so has been
-on building the foundation for a truly epic game in scope. Here are our features so far.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Structure of the universe that can support planet play, space, and even other dimensions.&lt;/li&gt;
-&lt;li&gt;Stream loading content cache that should keep our game in a small memory foot print.&lt;/li&gt;
-&lt;li&gt;100% modable Entity system that can load external DLL and configs to add to the game.&lt;/li&gt;
-&lt;li&gt;Rendering system that allows for thousands of entities on the screen.&lt;/li&gt;
-&lt;li&gt;Simple but extendable GUI system that allows for unlimited layered rendering and control input&lt;/li&gt;
-&lt;li&gt;Client / Universe model that allows for easy network code in the near future&lt;/li&gt;
-&lt;li&gt;Simple but flexible animation system based on simple sprite sheets&lt;/li&gt;
-&lt;li&gt;The start of a simple analytics engine&lt;/li&gt;
-&lt;li&gt;A failed Kickstarter campaign&lt;/li&gt;
-&lt;li&gt;A successful Geenlit campaign&lt;/li&gt;
-&lt;li&gt;A Lot more that I am forgetting right now&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;So we are speeding along to what is one awesome engine and a simple game to release to
-family, friends, and coworkers. It is worth every hour.&lt;/p&gt;
-</description>
+      <description>In my experience new ideas are not accepted within the organization when they are first uttered. Even in a forward looking group like IT it can take time and effort for an idea to take hold. If you talk to some they may say this is a political problem. I would look at this a slightly different way and pose this as a marketing opportunity, that is right marketing.
+In a day in age where outsourcing complicated work is an option and a time where other organizations can take on your IT workload and do it for you, marketing is the key.</description>
     </item>
     
   </channel>

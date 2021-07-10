@@ -1,35 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://f1tz81.github.io/</loc>
     <lastmod>2017-01-05T09:25:19-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://f1tz81.github.io/post/marketingtoorg/</loc>
     <lastmod>2017-01-05T09:25:19-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://f1tz81.github.io/post/afterthoughtstart/</loc>
-    <lastmod>2017-01-05T00:11:44-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://f1tz81.github.io/post/20160204/</loc>
-    <lastmod>2016-02-04T22:30:37-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://f1tz81.github.io/post/</loc>
+    <lastmod>2017-01-05T09:25:19-05:00</lastmod>
+  </url><url>
     <loc>http://f1tz81.github.io/about/</loc>
     <lastmod>2016-02-01T00:35:20-05:00</lastmod>
+  </url><url>
+    <loc>http://f1tz81.github.io/categories/</loc>
+  </url><url>
+    <loc>http://f1tz81.github.io/tags/</loc>
   </url>
-  
-  <url>
-    <loc>http://f1tz81.github.io/projects/</loc>
-    <lastmod>2016-02-01T00:02:31-05:00</lastmod>
-  </url>
-  
 </urlset>
